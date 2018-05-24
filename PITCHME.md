@@ -11,4 +11,4 @@ Solutions disponibles
 
 ---
 
-![AntispamOptions](https://github.com/shosho-san/presentations/blob/Antispam/Images/Outlook-Options%20du%20courrier%20indesirable.png)
+![AntispamOptions]( presentations/Images/Outlook-Options du courrier indesirable.png )
