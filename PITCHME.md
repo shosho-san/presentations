@@ -11,4 +11,4 @@ Solutions disponibles
 ---
 
 
-![Alt text](Images/Outlook-Options du courrier indesirable.png)
+![Options du courrier indesirable](Images/Outlook-Options du courrier indesirable.png)
