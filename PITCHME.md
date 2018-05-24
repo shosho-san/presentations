@@ -1,4 +1,4 @@
-# Antispam Outlook 
+## Antispam Outlook 
 
 Solutions disponibles
 
@@ -8,4 +8,6 @@ Solutions disponibles
 
 - Outlook en mode cache
 
----?image=images/Outlook-Options du courrier indesirable.png&size=auto 80%
+---
+
+![Alt text](images/Outlook-Options du courrier indesirable.png)
