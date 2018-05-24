@@ -12,3 +12,6 @@ Solutions disponibles
 
 ![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
 ![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
+![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
+![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
+![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
