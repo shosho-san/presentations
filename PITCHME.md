@@ -8,4 +8,4 @@ Solutions disponibles
 
 - Outlook en mode cache
 
----?image=imageq/Outlook-Options du courrier indesirable.png&size=auto 80%
+---?image=images/Outlook-Options du courrier indesirable.png&size=auto 80%
