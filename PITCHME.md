@@ -11,4 +11,4 @@ Solutions disponibles
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+![AntispamOptions](https://github.com/shosho-san/presentations/blob/Antispam/Images/Outlook-Options%20du%20courrier%20indesirable.png)
