@@ -1,14 +1,13 @@
-# Flux 
+# Antispam Outlook 
 
-An application architecture for React
+Solutions disponibles
 
 ---
 
-### Flux Design
+### Pré-requis
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Outlook en mode cache
+- 
 
 ---
 
