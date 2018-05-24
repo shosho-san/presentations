@@ -10,4 +10,4 @@ Solutions disponibles
 
 ---
 
-![Options du courrier indesirable](/Images/Outlook-Options du courrier indesirable.png)
+![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
