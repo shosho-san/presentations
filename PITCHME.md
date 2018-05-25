@@ -1,3 +1,4 @@
+@title[Introduction]
 # Antispam Outlook 
 
 ---
@@ -13,10 +14,10 @@
 * 3 strategies (outlook 2010,2013,2016)
 * Filtrage minimal
 * Liste blanche globale
-    * Permet d'accepter les images provenant des emetteurs autorisés
-        * Teams, service-now, Qualys...
+    > Permet d'accepter les images provenant des emetteurs autorisés
+    > Teams, service-now, Qualys...
 * Liste blanche par Utilisateurs
-    * peupler automatiquement avec les destinataires
+    > peupler automatiquement avec les destinataires
 
 ![liste blanche users](/Images/Outlook_Destinataires_approuves.png)
 
