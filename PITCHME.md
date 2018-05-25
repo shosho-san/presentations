@@ -8,9 +8,6 @@
 * aucun avertissement sur les emails suspicieux
 * Les images provenant d'Internet ne sont pas chargés
 
-
----
-## Situation actuelle
 ### chez Global Infra
 * 3 strategies (outlook 2010,2013,2016)
 * Filtrage minimal
@@ -19,7 +16,8 @@
         * Teams, service-now, Qualys...
 * Liste blanche par Utilisateurs
     * peupler automatiquement avec les destinataires
-![liste blanche users](Images\Outlook_Destinataires_approuves.png)
+
+![liste blanche users](/Images/Outlook_Destinataires_approuves.png)
 
 ---
 
