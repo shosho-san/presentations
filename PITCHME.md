@@ -1,15 +1,31 @@
-## Antispam Outlook 
+# Antispam Outlook 
 
-Solutions disponibles
+---
+## Situation actuelle
+### chez les utilisateurs
+* Aucun filtrage Outlook
+* Le dossier courrier indésirable est caché
+* aucun avertissement sur les emails suspicieux
+* Les images provenant d'Internet ne sont pas chargés
 
----?image=/Images/gitpitch-audience.jpg&opacity=100
 
-### Pré-requis
+---
+## Situation actuelle
+### chez Global Infra
+* 3 strategies (outlook 2010,2013,2016)
+* Filtrage minimal
+* Liste blanche globale
+    * Permet d'accepter les images provenant des emetteurs autorisés
+        * Teams, service-now, Qualys...
+* Liste blanche par Utilisateurs
+    * peupler automatiquement avec les destinataires
+![liste blanche users](Images\Outlook_Destinataires_approuves.png)
+
+---
+
+## Pré-requis
 
 - Outlook en mode cache
 
----?image=/Images/gitpitch-audience.jpg&opacity=100
-
-![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
-![Options du courrier indesirable](/Images/Outlook-Options_courrier_indesirable.png)
+---
 
