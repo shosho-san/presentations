@@ -8,6 +8,7 @@
 * aucun avertissement sur les emails suspicieux
 * Les images provenant d'Internet ne sont pas chargés
 
+---
 ### chez Global Infra
 * 3 strategies (outlook 2010,2013,2016)
 * Filtrage minimal
@@ -23,7 +24,7 @@
 
 ## Pré-requis
 
-- Outlook en mode cache
-
+* Outlook en mode cache
+    * Pas de fonctionnalités Outlook mode Connecté (en ligne)   
 ---
 
