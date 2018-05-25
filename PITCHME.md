@@ -1,6 +1,5 @@
 @title[Introduction]
-# Antispam Outlook 
-
+# Antispam Outlook
 ---
 ## Situation actuelle
 ### chez les utilisateurs
@@ -16,9 +15,10 @@
 * Liste blanche globale
     > Permet d'accepter les images provenant des emetteurs autorisés
     > Teams, service-now, Qualys...
+---
 * Liste blanche par Utilisateurs
     > peupler automatiquement avec les destinataires
-
+---
 ![liste blanche users](/Images/Outlook_Destinataires_approuves.png)
 
 ---
