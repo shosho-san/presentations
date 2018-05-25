@@ -1,4 +1,3 @@
-@title[Introduction]
 # Antispam Outlook
 ---
 ## Situation actuelle
