@@ -6,14 +6,17 @@
 * Le dossier courrier indésirable est caché
 * aucun avertissement sur les emails suspicieux
 * Les images provenant d'Internet ne sont pas chargés
+    * Sauf si destinataires approuvés
+    * Venant de Sharepoint
+    * Zone de sécurité fiable
 
 ---
 ### chez Global Infra
-* 3 strategies (outlook 2010,2013,2016)
+* 3 strategies (outlook 2010, 2013, 2016)
 * Filtrage minimal
+    * bloque les emails légitimement considérés comme du SPAM
 * Liste blanche globale
-    > Permet d'accepter les images provenant des emetteurs autorisés
-    > Teams, service-now, Qualys...
+    > Permet d'accepter les images provenant des emetteurs autorisés: Teams, service-now, Qualys...
 * Liste blanche par Utilisateurs
     > peupler automatiquement avec les destinataires
 
@@ -27,3 +30,5 @@
     * Pas de fonctionnalités Outlook mode Connecté (en ligne)   
 ---
 
+```powershell
+get-aduser
